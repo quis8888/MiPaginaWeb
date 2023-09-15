@@ -1,0 +1,42 @@
+*{margin: 0;
+padding:0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+	background-color: #6d6d6a;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+#titulo{
+	font-size: 36px;
+}
+nav ul{
+	list-style: none;
+	text-align: center;
+	background-color: aquamarine;
+	padding: 10px;
+}
+nav li{
+	display: inline;
+	margin-right: 20px;
+}
+nav a{text-decoration: none;
+	color: white;
+}
+.destacado{
+	background-color: gray;
+	padding: 20px;
+
+}
+.destacado h2{
+	color: rgba(77, 10, 4 1.0);
+}
+footer{
+	background-color: green;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	font-size: 15px;
+}
